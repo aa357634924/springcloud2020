@@ -8,7 +8,9 @@
     199.232.69.194 github.global.ssl.fastly.net
   3）刷新DNS
   打开CMD运行如下命令 ipconfig /flushdns
-  
+
+2.查看springcloud详细版本说明
+https://start.spring.io/actuator/info
   
 
 
